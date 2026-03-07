@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReignerApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3ea4744eef99eeb0b4a38ae74d132d1f43b1137")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReignerApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReignerApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
