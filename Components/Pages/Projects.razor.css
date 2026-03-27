@@ -1,0 +1,47 @@
+/* projects.css */
+
+.projects-container {
+    text-align: center;
+    margin-top: 80px;
+    font-family: Arial, sans-serif;
+}
+
+.projects-container h1 {
+    font-size: 36px;
+    color: #0078D4;
+}
+
+.subtitle {
+    color: #666;
+    margin-bottom: 30px;
+}
+
+/* Layout */
+.projects-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 25px;
+}
+
+/* Cards */
+.project-card {
+    background: rgb(245, 82, 82);
+    width: 260px;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    transition: 0.3s;
+}
+
+/* Hover */
+.project-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+
+.project-card h3 {
+    color: #0078D4;
+    background-color: aliceblue;
+    border-radius: 18px;
+}

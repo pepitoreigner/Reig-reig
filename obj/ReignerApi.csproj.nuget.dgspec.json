@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\REIGNER - ASP.NET\\ReignerApi\\ReignerApi.csproj": {}
+    "C:\\Users\\DUSTIN RAMECH BENSIG\\OneDrive\\ドキュメント\\Reigner\\Reig-reig\\ReignerApi.csproj": {}
   },
   "projects": {
-    "C:\\REIGNER - ASP.NET\\ReignerApi\\ReignerApi.csproj": {
+    "C:\\Users\\DUSTIN RAMECH BENSIG\\OneDrive\\ドキュメント\\Reigner\\Reig-reig\\ReignerApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\REIGNER - ASP.NET\\ReignerApi\\ReignerApi.csproj",
+        "projectUniqueName": "C:\\Users\\DUSTIN RAMECH BENSIG\\OneDrive\\ドキュメント\\Reigner\\Reig-reig\\ReignerApi.csproj",
         "projectName": "ReignerApi",
-        "projectPath": "C:\\REIGNER - ASP.NET\\ReignerApi\\ReignerApi.csproj",
-        "packagesPath": "C:\\Users\\Darryl\\.nuget\\packages\\",
-        "outputPath": "C:\\REIGNER - ASP.NET\\ReignerApi\\obj\\",
+        "projectPath": "C:\\Users\\DUSTIN RAMECH BENSIG\\OneDrive\\ドキュメント\\Reigner\\Reig-reig\\ReignerApi.csproj",
+        "packagesPath": "C:\\Users\\DUSTIN RAMECH BENSIG\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DUSTIN RAMECH BENSIG\\OneDrive\\ドキュメント\\Reigner\\Reig-reig\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Darryl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\DUSTIN RAMECH BENSIG\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"

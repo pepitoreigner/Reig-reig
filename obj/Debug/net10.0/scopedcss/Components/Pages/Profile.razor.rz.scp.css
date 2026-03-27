@@ -1,0 +1,59 @@
+/* portfolio.css */
+
+.hero[b-gq09h5qeaw] {
+    text-align: center;
+    margin-top: 100px;
+    font-family: Arial, sans-serif;
+}
+
+.hero h1[b-gq09h5qeaw] {
+    font-size: 40px;
+    font-weight: bold;
+    color: #0078D4;
+}
+
+.hero p[b-gq09h5qeaw] {
+    font-size: 18px;
+    color: #1228ed;
+    margin-top: 10px;
+}
+
+/* Hover effect */
+.hero p:hover[b-gq09h5qeaw] {
+    color: #000;
+    transition: 0.3s;
+}
+
+/* Simple fade-in animation */
+@keyframes fadeIn-b-gq09h5qeaw {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.hero[b-gq09h5qeaw] {
+    animation: fadeIn-b-gq09h5qeaw 1s ease-in-out;
+}
+
+.profile-photo[b-gq09h5qeaw] {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 4px solid #000000;
+    object-fit: cover;
+    display: block;
+    margin: 40px auto;
+    box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+    transition: transform 0.3s, box-shadow 0.3s, border-color 0.3s;
+}
+
+.profile-photo:hover[b-gq09h5qeaw] {
+    transform: scale(1.1) rotate(3deg);          /* zoom + slight tilt */
+    box-shadow: 0 12px 24px rgba(0,0,0,0.5);    /* stronger shadow */
+    border-color: #08bfa4;                       /* border glow color */
+}

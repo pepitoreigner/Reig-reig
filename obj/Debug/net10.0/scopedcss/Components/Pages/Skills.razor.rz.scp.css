@@ -1,0 +1,58 @@
+/* skills.css */
+
+.skills-container[b-by6msqvxxh] {
+    text-align: center;
+    margin-top: 80px;
+    font-family: Arial, sans-serif;
+}
+
+.skills-container h1[b-by6msqvxxh] {
+    font-size: 36px;
+    color: #0078D4;
+}
+
+.subtitle[b-by6msqvxxh] {
+    color: #c67777;
+    margin-bottom: 30px;
+}
+
+/* Grid layout */
+.skills-list[b-by6msqvxxh] {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+/* Skill cards */
+.skill-card[b-by6msqvxxh] {
+    background: #0078D4;
+    color: white;
+    padding: 15px 25px;
+    border-radius: 10px;
+    font-weight: bold;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+/* Hover effect */
+.skill-card:hover[b-by6msqvxxh] {
+    background: #005fa3;
+    transform: scale(1.1);
+}
+
+/* Animation */
+@keyframes fadeIn-b-by6msqvxxh {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.skills-container[b-by6msqvxxh] {
+    animation: fadeIn-b-by6msqvxxh 1s ease-in-out;
+}
