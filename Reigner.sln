@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Reig-reig", "Reig-reig", "{B6611AB3-CE3F-1138-07E5-3E92189D1F44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReignerApi", "Reig-reig\ReignerApi.csproj", "{C1FAFBF3-6712-0AB8-A99D-009E75CD904D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1FAFBF3-6712-0AB8-A99D-009E75CD904D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1FAFBF3-6712-0AB8-A99D-009E75CD904D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1FAFBF3-6712-0AB8-A99D-009E75CD904D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1FAFBF3-6712-0AB8-A99D-009E75CD904D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C1FAFBF3-6712-0AB8-A99D-009E75CD904D} = {B6611AB3-CE3F-1138-07E5-3E92189D1F44}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42F475BB-9429-4DEF-BA38-D600A5937A4B}
+	EndGlobalSection
+EndGlobal
